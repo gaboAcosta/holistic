@@ -22,6 +22,7 @@ React
 Webpack  
 ReactStrap  
 socket.io  
+gulp
 
 #Mobile
 React Native  
