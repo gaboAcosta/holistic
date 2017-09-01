@@ -28,3 +28,6 @@ gulp
 React Native  
 Native Base  
 socket.io  
+
+## License
+Copyright Gabriel Acosta and other contributors 2017, Licensed under [MIT][].
